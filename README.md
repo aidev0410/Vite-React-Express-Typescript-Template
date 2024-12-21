@@ -1,6 +1,6 @@
 # Vite React Express Typescript Template
 
-Build a template of fullstack web application using Vite, React, Express and Typescript.
+A template for building fullstack web application using Vite, React, Express and Typescript.
 
 ## Tasks
 
