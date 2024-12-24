@@ -1,5 +1,3 @@
-import "module-alias/register";
-
 import app from "./app";
 import { ENV } from "./utils/constants";
 import Logger from "./utils/logger";
